@@ -4,7 +4,7 @@ const {SUPABASE_URL,SUPABASE_KEY} = process.env;
 
 const supabase = createClient(SUPABASE_URL,SUPABASE_KEY);
 
-console.log('supabase ok');
+//console.log('supabase ok');
 
 exports.handler = async function(event, context) {
     if(event.httpMethod==='POST') {
