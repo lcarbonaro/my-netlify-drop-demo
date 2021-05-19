@@ -9,8 +9,7 @@ async function submitForm() {
         fdObj[key] = value;
     });
     let resp = await fetch('/.netlify/functions/testFunc', {
-      method: 'POST',
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      method: 'POST',      
       body: JSON.stringify(fdObj)
     });
     //let resp = await fetch('/.netlify/functions/testFunc');
