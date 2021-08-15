@@ -1,8 +1,3 @@
-Trying out Netlify Drop, then adding:
-- form and form submission
-- serverless functions
-- supabase integration
-
 Steps for simplest Netlify set-up:
 1. Code web site page(s) with HTML and CSS, including form
 2. Add the required HTML attributes
@@ -36,6 +31,11 @@ Note:
 
 For more details see the [Netlify Forms documentaton](https://docs.netlify.com/forms/setup/)
 
+
+Further added, in this particular example:
+- Auto-deploy via Git & Github
+- Serverless functions
+- Supabase integration
 
 
         
