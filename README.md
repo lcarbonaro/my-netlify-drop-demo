@@ -13,7 +13,7 @@ Steps for simplest Netlify set-up:
     - create account
     - can log in with Github (which as a dev, one should have already)
     - go to the Sites section
-    - drag your web page folder from your PC to the area at the bottom pf the Sites section
+    - drag your web page folder from your PC to the area at the bottom of the Sites section
     - site is now published under the displayed URL (something.netlify.app)
         - can customise the URL
     - your web site is now published 
