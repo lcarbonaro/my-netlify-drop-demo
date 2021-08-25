@@ -29,7 +29,7 @@ Note:
 - can have multiple forms on same web site
     - differentiate by form name attribute (see above)
 
-For more details see the [Netlify Forms documentaton](https://docs.netlify.com/forms/setup/)
+For more details see the [Netlify Forms documentation](https://docs.netlify.com/forms/setup/)
 
 
 Further added, in this particular example:
